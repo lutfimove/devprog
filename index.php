@@ -1,3 +1,3 @@
 <?php 
 
-echo 'mari belajar'; ?>
+echo 'mari belajar ganteng'; ?>
